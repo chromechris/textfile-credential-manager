@@ -1,0 +1,24 @@
+Namecheap
+chromechris
+password
+email
+First Name
+Last Name
+7888798
+
+Stack Exchange
+myuser
+mypass
+me@gmail.com
+John
+Doe
+12345
+
+Cafe Alerta
+thecreamer
+cafeine
+coffe@java.com
+James
+Romdy
+8520456
+
